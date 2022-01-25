@@ -1,0 +1,83 @@
+[
+	{
+		"id": 1,
+		"name": "Ross Residents",
+		"address": "15 Queens Hill",
+		"images": [
+			"/assets/MondayImages/MondayRoute#1A.jpg",
+			"/assets/MondayImages/MondayRoute#1B.jpg",
+			"/assets/MondayImages/MondayRoute#1C.jpg"
+		]
+	},
+
+	{
+		"id": 2,
+		"name": "Everia Residents",
+		"address": "24326 Haeli Park",
+		"image": [
+			"/assets/MondayImages/MondayRoute#2A.jpg",
+			"/assets/MondayImages/MondayRoute#2B.jpg",
+			"/assets/MondayImages/MondayRoute#2C.jpg"
+		]
+	},
+
+	{
+		"id": 3,
+		"name": "Gomez Residents",
+		"address": "1110 Autumn Ridge",
+		"image": [
+			"/assets/MondayImages/MondayRoute#3A.jpg",
+			"/assets/MondayImages/MondayRoute#3B.jpg"
+		]
+	},
+
+	{
+		"id": 4,
+		"name": "Morris Residents",
+		"address": "550 Moss Mount",
+		"image": [
+			"/assets/MondayImages/MondayRoute#4A.jpg",
+			"/assets/MondayImages/MondayRoute#4B.jpg"
+		]
+	},
+
+	{
+		"id": 5,
+		"name": "Lerow Residents",
+		"address": "1203 W. Oak Estates",
+		"image": [
+			"/assets/MondayImages/MondayRoute#5A.jpg",
+			"/assets/MondayImages/MondayRoute#5B.jpg"
+		]
+	},
+
+	{
+		"id": 6,
+		"name": "Gill Residents",
+		"address": "1267 W. Oak Estates",
+		"image": [
+			"/assets/MondayImages/MondayRoute#6A.jpg",
+			"/assets/MondayImages/MondayRoute#6B.jpg"
+		]
+	},
+
+	{
+		"id": 7,
+		"name": "McClanahan Residents",
+		"address": "30820 Rice Rd.",
+		"image": [
+			"/assets/MondayImages/MondayRoute#7A.jpg",
+			"/assets/MondayImages/MondayRoute#7B.jpg"
+		]
+	},
+
+	{
+		"id": 8,
+		"name": "Merrill Residents",
+		"address": "314 Sundrop",
+		"image": [
+			"/assets/MondayImages/MondayRoute#8A.jpg",
+			"/assets/MondayImages/MondayRoute#8B.jpg"
+		]
+	}
+]
